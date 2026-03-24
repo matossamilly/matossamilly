@@ -1,8 +1,7 @@
 # 🎸⋆⭒˚｡⋆ Olá, eu sou a Samilly ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwdWswYm12Z3B6bmNidW5mN2JqZnl4bmZ0Z3p4bmZ0Z3p4bmZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SWh7WLZW9NRH6l2s/giphy.gif" width="200px">
-</div>
+
+
 
 ### 👩‍💻 Sobre mim ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 Atualmente, estou mergulhando no mundo da tecnologia como estudante do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por design intuitivo e por transformar linhas de código em soluções reais.
