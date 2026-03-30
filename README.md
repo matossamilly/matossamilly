@@ -4,7 +4,7 @@
 
 
 ### 👩‍💻 Sobre mim ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-Atualmente, estou mergulhando no mundo da tecnologia como estudante do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por design intuitivo e por transformar linhas de código em soluções reais.
+Atualmente, estou mergulhando no mundo da tecnologia como estudante do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por design e amo dar aula de música.
 
 - 🌸 **Foco atual:** Lógica de Programação e Front-end.
 - 📚 **Educação:** Técnico em Desenvolvimento de Sistemas - SENAI.
