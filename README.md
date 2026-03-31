@@ -10,7 +10,7 @@ Atualmente, estou mergulhando no mundo da tecnologia como estudante do curso **T
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas que estou aprendendo⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+### 🛠️ Tecnologias & Ferramentas que estou aprendendo
 Aqui estão algumas das tecnologias que estou aprendendo e utilizando na minha jornada:
 
 <p align="left">
