@@ -1,18 +1,16 @@
-# 🎸⋆⭒˚｡⋆ Olá, eu sou a Samilly ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+# ⋆⭒˚｡⋆ Olá, eu sou a Samilly 
 
 
-
-### 👩‍💻 Sobre mim ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+### 👩‍💻 Sobre mim
 Atualmente, estou mergulhando no mundo da tecnologia como estudante do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por design e amo dar aula de música.
 
 - 🌸 **Foco atual:** Lógica de Programação e Front-end.
 - 📚 **Educação:** Técnico em Desenvolvimento de Sistemas - SENAI.
-- ✨ **Objetivo:** Criar aplicações que unam funcionalidade e estética.
+- ✨ **Objetivo:** Conseguir trabalhar com o TI ou trabalhar com música.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+### 🛠️ Tecnologias & Ferramentas que estou aprendendo⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 Aqui estão algumas das tecnologias que estou aprendendo e utilizando na minha jornada:
 
 <p align="left">
